@@ -16,7 +16,9 @@
 <br></br> 
 </p>
 
-Get started with Acurast:
+Acurast - secure decentralised compute, provided by phones.
+
+Get started:
 
 - <a href="https://acurast.com">Website</a>
 - <a href="https://docs.acurast.com">Documentation</a>
