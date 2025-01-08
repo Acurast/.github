@@ -6,8 +6,7 @@
   </a>
 </p>
 
-</br>
-<h1 align="center">Welcome to Acurast</h1>
+<h1 align="center">Secure Decentralized Compute, Provided By Phones</h1>
 
 <p align="center">
   <a href="https://x.com/@acurast"><img src="https://img.shields.io/badge/Acurast-000?color=c0e700&style=plastic&logo=x&logoColor=white&label=Twitter"></a>
@@ -15,8 +14,6 @@
   <a href="https://t.me/acurastnetwork"><img src="https://img.shields.io/badge/Acurast-c0e700?style=plastic&label=Telegram&logo=telegram&logoColor=white"></a>
 <br></br> 
 </p>
-
-Acurast - secure decentralised compute, provided by phones.
 
 Get started:
 
