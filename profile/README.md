@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.acurast.com">
     <picture>
-    <img alt="acurast logo" src="https://github.com/AcurastNetwork/.github/blob/main/assets/acurast.png" width="auto" height="100">
+    <img alt="acurast logo" src="https://github.com/Acurast/.github/blob/main/assets/acurast.png" width="auto" height="100">
     </picture>
   </a>
 </p>
