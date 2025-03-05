@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">Secure Decentralized Compute, Provided By Phones</h1>
+<h1 align="center">Real Decentralized Compute, Provided By Phones</h1>
 
 <p align="center">
   <a href="https://x.com/@acurast"><img src="https://img.shields.io/badge/Acurast-000?color=c0e700&style=plastic&logo=x&logoColor=white&label=Twitter"></a>
