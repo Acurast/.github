@@ -20,5 +20,5 @@ Get started:
 - <a href="https://acurast.com">Website</a>
 - <a href="https://docs.acurast.com">Documentation</a>
 - <a href="https://x.com/@acurast">X (Twitter)</a>
-- <a href="https://discord.com/invite/wqgC6b6aKe">Discord</a>: Our official Discord server.
+- <a href="https://discord.com/invite/acurast">Discord</a>: Our official Discord server.
 - <a href="https://t.me/acurastnetwork">Telegram</a>: Our official Telegram channel.
